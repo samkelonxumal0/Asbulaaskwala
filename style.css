@@ -1,0 +1,44 @@
+body {
+
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    
+ }
+ header {
+    background-color: pink;
+    text-align: center;
+    padding: 10px;
+ }
+ h1 {
+    color: white;
+    text-align: center;
+    
+ }
+ main {
+    margin: 30px;
+ }
+ section {
+    margin-bottom: 20px;
+ }
+ 
+ button {
+    cursor: pointer;
+    background-color: burlywood;
+    color: rgb(82, 7, 7);
+    padding: 30px;
+    margin: 10px 25px;
+    border: 3px solid #ddd;
+    border-radius: 25px;
+    
+ }
+ .sam{
+   background-image: url(../valentines/giphy.gif);
+   background-size: cover;
+   background-repeat: no-repeat;
+ }
+.loveQuotes{
+font-family: 'Times New Roman', Times, serif;
+text-align: center;
+}
